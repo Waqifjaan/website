@@ -1,0 +1,183 @@
+.hh {
+    text-align: center;
+}
+.pp {
+    text-align: center;
+}
+.tt {
+    background-color: whitesmoke;
+    height: 26%;
+    width: 14%;
+    padding: 4%;
+    margin: 5%;
+}
+.section {
+    display: flex;
+    align-items: center;
+
+}
+.im {
+    margin: 1%;
+    height: 20%;
+    background-color: whitesmoke;
+    width: 17%;
+    padding: 4.5%;
+}
+.ph {
+    text-align: center;
+}
+.imn {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 17%;
+    padding: 6%;
+}
+.pi {
+    text-align: center;
+}
+.imo {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 6%;
+    height: 200px;
+}
+.mi {
+    text-align: center;
+}
+.q {
+   display: flex;
+   align-items: center;
+}
+.i {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 3%;
+    height: 4.5%;
+}
+.l {
+    text-align: center;
+}
+.il {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 4.5%;
+    height: 250px;
+}
+.il {
+    text-align: center;
+}
+.ili {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 6%;
+    height: 220px;
+}
+.lil {
+    text-align: center;
+}
+.s {
+    display: flex;
+    align-items: center;
+}
+.w {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 17%;
+    padding: 4.5%;
+    height: 2;
+}
+.e {
+    text-align: center;
+}
+.y {
+    margin: 1%;
+    height: 200px;
+    background-color: whitesmoke;
+    width: 80%;
+    padding: 6%;
+    height: 2%;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dd {
+    float: right;
+}
+.yt {
+    display: flex;
+    align-items: center;
+}
+.u {
+    margin: 1%;
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 3.6%;
+}
+.ih {
+    text-align: center;
+}
+.lk {
+    margin: 1%;
+    background-color: whitesmoke;
+    width: 27%;
+    padding: 2%;
+    height: 420px;
+}
+.lp {
+    text-align: center;
+}
+.o {
+    margin: 1%;
+    background-color: whitesmoke;
+    width: 20%;
+    padding: 4.3%;
+    height: 360px;
+}
+.kq {
+    text-align: center;
+}
+.ls {
+    margin: 1%;
+    background-color: whitesmoke;
+    width: 18.5%;
+    padding: 4.3%;
+}
+.ut {
+    text-align: center;
+}
+.rt {
+    text-align: left;
+    margin: 1%;
+}
+.qy {
+    text-align: center;
+    margin-top: -6%;
+}
+.yto {
+    text-align: center;
+}
+.pit {
+    text-align: right;
+    margin-top: -13%;
+    margin-right: 5%;
+}
+.rty {
+    text-align: right;
+    margin-right: 3%;
+}
+.tyt {
+    text-align: center;
+}
